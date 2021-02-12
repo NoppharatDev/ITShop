@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Prompt';
+    src: url("Prompt.woff2");
+}
+  
+* {
+    font-family: 'Prompt';
+}
+
+body {
+    background-color: #fffaec;
+}
+
+.plg-25px {
+    text-indent: 25px;
+}
+.card-anime {
+    background-color: #FFFFFF;
+}
+.navbar1 {
+    color: #FFFFFF;
+    background-color: #e2a41e;
+}
+.btn-select {
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: #e2a41e;
+}
+
+.bg-it {
+    background-color: #e2a41e;
+}
